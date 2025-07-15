@@ -1,0 +1,1 @@
+# Fading channel model (e.g., Rayleigh, Doppler).
